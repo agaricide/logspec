@@ -21,7 +21,7 @@ File names are dates (& optionally times):
 ## Principles 
 
 - human readable date `MM/DD/YY` or `DD/MM/YY` format is preferred
-- Unix is the format default if that specificity is necessary
+- Unix is the default format if second or millisecond specificity is necessary
 
 ## Why Unix timestamp?
 
